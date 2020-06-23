@@ -7,3 +7,5 @@ Ein krasser Typ der über Leichen geht, explodiert gerne mal, sodass vermeintlic
 * explosiv
 * lügt 
 * nicht belastbar
+
+> Ich liebe diese Frau. Ich liebe sie mehr, als Haie Blut lieben.
