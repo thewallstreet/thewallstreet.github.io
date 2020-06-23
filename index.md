@@ -4,6 +4,6 @@ Ein krasser Typ der über Leichen geht, explodiert gerne mal, sodass vermeintlic
 
 ## Stichpunktliste des Characters
 
-*explosiv
-*lügt 
-*nicht belastbar
+* explosiv
+* lügt 
+* nicht belastbar
